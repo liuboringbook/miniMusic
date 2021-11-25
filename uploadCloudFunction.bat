@@ -1,0 +1,1 @@
+"E:\微信开发者工具\微信web开发者工具\cli.bat" cloud functions deploy --e test-a5pjo --n quickstartFunctions --r --project "D:\git\miniMusic" --report_first --report
