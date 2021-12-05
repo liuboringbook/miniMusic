@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "l-prolist": "/components/playlist/playlist"
+  }
+}

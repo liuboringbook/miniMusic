@@ -1,0 +1,4 @@
+<!--components/playlist/playlist.wxml-->
+<view>
+  这是一个组件
+</view>
